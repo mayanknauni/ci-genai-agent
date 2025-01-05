@@ -44,6 +44,8 @@ CyberBoT is a Streamlit-based cybersecurity vulnerability research assistant pow
 
 ## How to Use
 1. **Enter Target IP:** Provide the IP address you want to scan.
+![image](https://github.com/user-attachments/assets/6e965c72-e3fe-4cb8-9a57-6033e2acbfbe)
+
 2. **Quick OT Scan:** Perform a preliminary scan of common ICS/OT ports.
 3. **ICS Script Scan (Optional):** Run a deeper scan if ICS protocols are detected.
 4. **GPT Analysis:** Review the AI-generated security analysis report.
