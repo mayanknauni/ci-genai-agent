@@ -48,6 +48,8 @@ CyberBoT is a Streamlit-based cybersecurity vulnerability research assistant pow
 
 2. **Quick OT Scan:** Perform a preliminary scan of common ICS/OT ports.
 3. **ICS Script Scan (Optional):** Run a deeper scan if ICS protocols are detected.
+![image](https://github.com/user-attachments/assets/4ddaa210-e5bb-4e42-bf75-6c930eaf788b)
+   
 4. **GPT Analysis:** Review the AI-generated security analysis report.
 ![image](https://github.com/user-attachments/assets/1cf63fd9-d82e-4633-a3e7-e8f8ea5c2ec5)
    
