@@ -39,7 +39,7 @@ CyberBoT is a Streamlit-based cybersecurity vulnerability research assistant pow
    ```
 4. **Run the Application:**
    ```bash
-   streamlit run app.py
+   streamlit run ci_research_agent.py
    ```
 
 ## How to Use
