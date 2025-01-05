@@ -19,6 +19,9 @@ CyberBoT is a Streamlit-based cybersecurity vulnerability research assistant pow
 - **Nmap & NSE Scripts**
 - **ExploitDB (searchsploit)**
 
+- ![image](https://github.com/user-attachments/assets/fdee3a44-6421-4437-9d85-cca669be9bdb)
+
+
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
